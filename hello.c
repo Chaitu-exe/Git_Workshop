@@ -2,6 +2,7 @@
 int  main()
 {
 printf("Git and Github");
- return 0;
+printf("new commit"); 
+return 0;
 }
 
